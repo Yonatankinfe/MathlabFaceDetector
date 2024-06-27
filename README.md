@@ -35,3 +35,11 @@ This project demonstrates how to create a custom face detector using a Convoluti
 - Calculate and display the accuracy of the model.
 
 This project provides a comprehensive example of using MATLAB for image classification and face detection tasks, leveraging the power of convolutional neural networks and data augmentation techniques.
+### Here are some images 
+![image](https://github.com/Yonatankinfe/MathlabFaceDetector/assets/158090444/c1556bf5-4ec4-4e1c-8254-e8cb237d7c3e)
+![image](https://github.com/Yonatankinfe/MathlabFaceDetector/assets/158090444/2a9d2588-8ea4-40a5-8809-5c91ef31bc0a)
+![image](https://github.com/Yonatankinfe/MathlabFaceDetector/assets/158090444/27e94976-3a80-42f2-bc00-0e3f5bea75d4)
+![image](https://github.com/Yonatankinfe/MathlabFaceDetector/assets/158090444/293b1e9b-32fe-4224-b6f2-cf6c0c6c7a11)
+![image](https://github.com/Yonatankinfe/MathlabFaceDetector/assets/158090444/f11a6d74-7759-4697-83ec-3e9cdb1d32e5)
+![image](https://github.com/Yonatankinfe/MathlabFaceDetector/assets/158090444/e1dab04b-bef5-4849-98c0-d3a3ed8b0541)
+![image](https://github.com/Yonatankinfe/MathlabFaceDetector/assets/158090444/a2ad74a9-3d8f-4e9d-b443-970c051559ad)
