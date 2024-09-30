@@ -18,30 +18,30 @@ This project demonstrates how to create a custom face detector using a Convoluti
 + Split the data into training and validation sets. 🏋️‍♂️📝
 
 
-Data Augmentation 🔄📈
+# Data Augmentation 🔄📈
 
 + Resize the images to match the input size expected by the CNN. 📏🖼️
 
 + Convert grayscale images to RGB format. 🌑➡️🌈
 
 
-CNN Architecture 🧠🏗️
+# CNN Architecture 🧠🏗️
 
 Define a simple CNN with several convolutional, batch normalization, ReLU, and max-pooling layers. 🌀📊
 
 Add fully connected, softmax, and classification layers for the final output. 🔗🧮✅
 
 
-Training 🎯
+# Training 🎯
 
-Set training options such as the  optimizer, learning rate, and number of epochs. ⚙️⏳
++ Set training options such as the  optimizer, learning rate, and number of epochs. ⚙️⏳
 
-Train the CNN using the augmented training data. 🏋️‍♀️🖼️
++ Train the CNN using the augmented training data. 🏋️‍♀️🖼️
 
-Save the trained model. 💾📊
++ Save the trained model. 💾📊
 
 
-Face Detection 👥🔍
+# Face Detection 👥🔍
 
 + Use a pre-trained model to detect faces in new images. 🤖📷
 
@@ -50,18 +50,18 @@ Face Detection 👥🔍
 + Classify the faces using the trained CNN. 🧠👥
 
 
-Evaluation 🧪📊
+# Evaluation 🧪📊
 
-Load test data and make predictions using the trained model. 📂🔮
++ Load test data and make predictions using the trained model. 📂🔮
 
-Display a confusion matrix to visualize the performance. 🔄📊
++ Display a confusion matrix to visualize the performance. 🔄📊
 
-Calculate and display the accuracy of the model. 📈🎯
++ Calculate and display the accuracy of the model. 📈🎯
 
 
 This project provides a comprehensive example of using MATLAB for image classification and face detection tasks, leveraging the power of convolutional neural networks and data augmentation techniques. 🚀📸
 
-Here are some images 📷🖼️
+# Here are some images 📷🖼️
 
 
 ![image](https://github.com/Yonatankinfe/MathlabFaceDetector/assets/158090444/c1556bf5-4ec4-4e1c-8254-e8cb237d7c3e)
